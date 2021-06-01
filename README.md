@@ -7,9 +7,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 4 languages ( English, Arabic, Russian, French)
-
-<br/>
-<br/>
+- 
 +-----------------------------------------------------------------------------------------------+
 
 
