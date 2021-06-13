@@ -4,7 +4,7 @@
 ## I'm a Developer !!
 - 🌱 I’m currently learning React Native and Azure
 - 👯 I’m looking to collaborate on open source
-- 💬 How to reach me: instagram - [@amine_el_alouani]  , linkedIn - .
+- 💬 How to reach me: instagram - [@amine_el_alouani]  , linkedIn - [Amine El Alouani].
 - ⚡ Fun fact: I speak 4 languages ( English, Arabic, Russian, French)
 - 
 +-----------------------------------------------------------------------------------------------+
@@ -43,4 +43,4 @@
 </details>
 
 [@amine_el_alouani]: https://www.instagram.com/amine_el_alouani/
-[linkedin]: https://www.linkedin.com/in/nerdie-boy-556137203/
+[Amine El Alouani]: https://www.linkedin.com/in/nerdie-boy-556137203/
