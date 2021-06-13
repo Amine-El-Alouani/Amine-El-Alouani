@@ -2,11 +2,12 @@
 
 
 ## I'm a Developer !!
-- 🌱 I’m currently learning React Native and Azure
+
+- 🌱 I’m currently learning React and Redux
 - 👯 I’m looking to collaborate on open source
 - 💬 How to reach me: instagram - [@amine_el_alouani]  , linkedIn - [Amine El Alouani].
 - ⚡ Fun fact: I speak 4 languages ( English, Arabic, Russian, French)
-- 
+
 +-----------------------------------------------------------------------------------------------+
 
 
