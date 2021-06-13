@@ -2,10 +2,9 @@
 
 
 ## I'm a Developer !!
-- ✍ You can find my projects here [portfolio]
 - 🌱 I’m currently learning React Native and Azure
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
+- 💬 How to reach me: instagram - <a src="https://www.instagram.com/amine_el_alouani/">@amine_el_alouani</a> , linkedIn - .
 - ⚡ Fun fact: I speak 4 languages ( English, Arabic, Russian, French)
 - 
 +-----------------------------------------------------------------------------------------------+
