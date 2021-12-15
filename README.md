@@ -29,20 +29,8 @@
 <br />
 +-----------------------------------------------------------------------------------------------+
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Amine's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Amine-El-Alouani&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
 <img align="left" alt="Amine's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amine-El-Alouani&langs_count=8&layout=compact"/>
 
-
-</details>
 
 [@amine_el_alouani]: https://www.instagram.com/amine_el_alouani/
 [Amine El Alouani]: https://www.linkedin.com/in/nerdie-boy-556137203/
