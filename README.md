@@ -28,8 +28,4 @@
 <br />
 <br />
 +-----------------------------------------------------------------------------------------------+
-<br />
-<br />
 
-[@amine_el_alouani]: https://www.instagram.com/amine_el_alouani/
-[Amine El Alouani]: https://www.linkedin.com/in/nerdie-boy-556137203/
