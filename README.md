@@ -31,8 +31,5 @@
 <br />
 <br />
 
-<img align="left" alt="Amine's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amine-El-Alouani&langs_count=8&layout=compact"/>
-
-
 [@amine_el_alouani]: https://www.instagram.com/amine_el_alouani/
 [Amine El Alouani]: https://www.linkedin.com/in/nerdie-boy-556137203/
